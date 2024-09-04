@@ -31,7 +31,7 @@ export default function Home() {
             Hi, I am Olive Bishop
             <span className="bg-clip-text text-2xl sm:text-3xl md:text-4xl lg:text-5xl bg-gradient-to-tl from-[#606060] to-[#7f7f7f] text-transparent">
               <br />
-              Full Stack Software Developer
+              Cyber Security Analyst, Software Developer and Social Media Manager
             </span>
           </h1>
         </div>
